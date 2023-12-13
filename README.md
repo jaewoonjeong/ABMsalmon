@@ -2,7 +2,7 @@
 
 This repository contains code used in the following paper. 
 
-Jaewoon Jeong and Gregor McEwan. Wild salmon migration routes influence sea lice infestations: An agent-based model predicting farm-related infestations on juvenile salmon
+Jaewoon Jeong and Gregor McEwan. **Wild salmon migration routes influence sea lice infestations: An agent-based model predicting farm-related infestations on juvenile salmon**
 
 All code contained within this repository is run with R. 
 

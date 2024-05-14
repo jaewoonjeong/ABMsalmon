@@ -1,5 +1,3 @@
-##################################### Migration functions
-
 PixelPoint=function(Point){c(LongDivision[which.min(abs(LongDivision-Point[1]))], LatiDivision[which.min(abs(LatiDivision-Point[2]))])}
 StartPoint=c(-125.020121, 49.939181); Destination=c(-125.813433, 50.392261); 
 SP=PixelPoint(StartPoint) # Start Point
